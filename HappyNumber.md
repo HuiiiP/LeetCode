@@ -26,7 +26,7 @@ public:
             return true;  
         if(n == 4)
             return false;
-    }  
+    }   
 };
 ```
 >## 思路总结
